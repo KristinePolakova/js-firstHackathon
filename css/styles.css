@@ -8,6 +8,12 @@ h1 {
 #logo {
     width: 7rem;
     height: 5rem;
-  }
-  
+}
+.navbar {
+    background-color: rgba(139, 186, 139, 0.549)!important;
+} 
+.nav-link {
+    color: green!important;
+}
+
 
