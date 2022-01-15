@@ -11,6 +11,10 @@
     color: green!important;
 }
 
+#pricingImg {
+    height: 21rem;
+}
+
 h1 {
     color: green;
 }
