@@ -5,3 +5,9 @@ h1 {
 .form-control {
     color: green!important;
 }
+#logo {
+    width: 7rem;
+    height: 5rem;
+  }
+  
+
